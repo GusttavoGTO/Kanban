@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Kanban\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|c:\\users\\usuario\\source\\repos\\kanban\\kanban\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|solutionrelative:kanban\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|c:\\users\\usuario\\source\\repos\\kanban\\kanban\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|solutionrelative:kanban\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|c:\\users\\usuario\\source\\repos\\kanban\\kanban\\dto\\cadastroatividadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|solutionrelative:kanban\\dto\\cadastroatividadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|c:\\users\\usuario\\source\\repos\\kanban\\kanban\\migrations\\20250724133508_criacaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|solutionrelative:kanban\\migrations\\20250724133508_criacaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|c:\\users\\usuario\\source\\repos\\kanban\\kanban\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C489D775-F40F-4F8F-A4FA-5597DED9E2B7}|Kanban\\Kanban.csproj|solutionrelative:kanban\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Kanban\\Kanban\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Kanban\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Kanban\\Kanban\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Kanban\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:13:09.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroAtividadeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Kanban\\Kanban\\Dto\\CadastroAtividadeDto.cs",
+              "RelativeDocumentMoniker": "Kanban\\Dto\\CadastroAtividadeDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Kanban\\Kanban\\Dto\\CadastroAtividadeDto.cs",
+              "RelativeToolTip": "Kanban\\Dto\\CadastroAtividadeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:13:06.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Kanban\\Kanban\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Kanban\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -39,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20250724133508_CriacaoBanco.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Kanban\\Kanban\\Migrations\\20250724133508_CriacaoBanco.cs",
               "RelativeDocumentMoniker": "Kanban\\Migrations\\20250724133508_CriacaoBanco.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Kanban\\Kanban\\Migrations\\20250724133508_CriacaoBanco.cs",
               "RelativeToolTip": "Kanban\\Migrations\\20250724133508_CriacaoBanco.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T11:17:00.441Z",
               "EditorCaption": ""
